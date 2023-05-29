@@ -8,16 +8,16 @@ O projeto é desenvolvido em JavaScript e usa classes para representar os person
 ## Funcionalidades
 * Batalha entre um guerreiro e um monstro.
 
-2- Cálculo de ataques e defesas com base em valores aleatórios.
+* Cálculo de ataques e defesas com base em valores aleatórios.
 
-3- Atualização em tempo real das barras de vida dos lutadores.
+* Atualização em tempo real das barras de vida dos lutadores.
 
-4- Registro de ataques em um log.
+* Registro de ataques em um log.
 
 ## Tecnologias Utilizadas
-Html
-Css
-JavaScript
+* Html
+* Css
+* JavaScript
 
 ## Uso
 Ao abrir o projeto no navegador, você verá a interface da batalha.
