@@ -6,7 +6,7 @@ Este projeto implementa uma batalha entre personagens, onde um guerreiro e um mo
 O projeto é desenvolvido em JavaScript e usa classes para representar os personagens e o cenário da batalha. Ele possui uma interface simples que exibe as informações dos lutadores e registra os ataques em um log.
 
 ## Funcionalidades
-1- Batalha entre um guerreiro e um monstro.
+* Batalha entre um guerreiro e um monstro.
 
 2- Cálculo de ataques e defesas com base em valores aleatórios.
 
