@@ -28,3 +28,7 @@ O log exibe as mensagens de ataques e defesas realizados durante a batalha.
 A batalha ocorre em turnos, com o guerreiro atacando a cada 3,5 segundos e o monstro atacando a cada 4,5 segundos.
 Quando um lutador tem sua vida reduzida a zero, uma mensagem é exibida no log indicando que ele está morto.
 A interface é atualizada automaticamente a cada turno para refletir as alterações nos valores de vida dos lutadores.
+
+## imagens
+![printjogo1](https://github.com/MisaFernandesDev/jogolutapoo/assets/133443128/0c7777a5-8693-4813-9abf-9e8d7c44f886)
+![printjogo2](https://github.com/MisaFernandesDev/jogolutapoo/assets/133443128/b6b4d2b3-7063-492f-a326-8fc1d7964f25)
